@@ -1,0 +1,5 @@
+pandas
+pyarrow
+langchain
+langchain-google-genai
+python-dotenv

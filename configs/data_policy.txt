@@ -1,0 +1,5 @@
+
+    POLICY_1: Remove all 0.00 amount transactions to optimize storage.
+    POLICY_2: Mask all 'customer_email' values using SHA-256 for privacy.
+    POLICY_3: The final output must be in Parquet format.
+    
