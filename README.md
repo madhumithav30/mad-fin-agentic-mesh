@@ -21,7 +21,7 @@ I built an autonomous pipeline where an **LLM Agent (Gemini 2.5 Flash)** retriev
 - **Cloud Warehouse:** Google Cloud Platform (BigQuery)
 - **Visualization:** Looker Studio / Power BI
 
-## 📂 Project Structure
+## Project Structure
 - `agent_orchestrator.py`: The main "Brain" of the pipeline.
 - `data_policy.txt`: The "Knowledge Base" (RAG) containing corporate rules.
 - `.env`: (Hidden) Secure API Key management.
